@@ -1,2 +1,16 @@
-
-bsjshsjsbsnsbsbssbgffff
+{
+  "update_version": "1.0.0",
+  "com.xtunnel.vpn": {
+    "latest_version_code": 0,
+    "apk_url": "https://www.updatelink.com",
+    "version_rules": {
+      "8": {
+        "force_update": false,
+        "stop_config_updates": false,
+        "clear_app_data": false,
+        "update_message": "Update required",
+        "apk_url": "https://www.updatelink.com"
+      }
+    }
+  }
+}
