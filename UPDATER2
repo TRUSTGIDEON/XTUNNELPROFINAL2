@@ -1,15 +1,15 @@
 {
-  "update_version": "1.0.0",
+  "update_version": "1.0.1",
   "com.xtunnel.vpn": {
-    "latest_version_code": 0,
-    "apk_url": "https://www.updatelink.com",
+    "latest_version_code": 9,
+    "apk_url": "https://play.google.com/store/apps/details?id=tik.tunnel.pro",
     "version_rules": {
       "8": {
         "force_update": false,
         "stop_config_updates": false,
         "clear_app_data": false,
-        "update_message": "Update required",
-        "apk_url": "https://www.updatelink.com"
+        "update_message": "We Are Shifting to a new application, you are reqired to update to a new application available on playstore. Click Update to continue.",
+        "apk_url": "https://play.google.com/store/apps/details?id=tik.tunnel.pro"
       }
     }
   }
