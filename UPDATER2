@@ -12,5 +12,18 @@
         "apk_url": "https://play.google.com/store/apps/details?id=tik.tunnel.pro"
       }
     }
+  },
+  "tik.tunnel.pro": {
+    "latest_version_code": 5,
+    "apk_url": "https://play.google.com/store/apps/details?id=co.strongteam.gulf",
+    "version_rules": {
+      "4": {
+        "force_update": false,
+        "stop_config_updates": true,
+        "clear_app_data": false,
+        "update_message": "We Are Shifting to a new application, you are reqired to update to a new application available on playstore. Click Update to continue.",
+        "apk_url": "https://play.google.com/store/apps/details?id=co.strongteam.gulf"
+      }
+    }
   }
 }
