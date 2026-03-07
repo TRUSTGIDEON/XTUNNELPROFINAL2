@@ -1,5 +1,5 @@
 {
-  "update_version": "1.0.4",
+  "update_version": "1.0.5",
   "com.xtunnel.vpn": {
     "latest_version_code": 9,
     "apk_url": "https://play.google.com/store/apps/details?id=tik.tunnel.pro",
@@ -18,7 +18,7 @@
     "apk_url": "https://play.google.com/store/apps/details?id=co.strongteam.gulf",
     "version_rules": {
       "4": {
-        "force_update": false,
+        "force_update": true,
         "stop_config_updates": true,
         "clear_app_data": false,
         "update_message": "We Are Shifting to a new application, you are reqired to update to a new application available on playstore. Click Update to continue.",
